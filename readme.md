@@ -16,3 +16,6 @@ Work completed so far:
 
 1. 07-Starting Migrations-Xampp
 2. 08-Changing User Fields
+3. 09-Using Tinker
+4. 10-Seeding the Database
+5. 11-Using Faker
