@@ -19,3 +19,4 @@ Work completed so far:
 3. 09-Using Tinker
 4. 10-Seeding the Database
 5. 11-Using Faker
+6. Marked by Stephan 20/11/2015
